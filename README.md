@@ -1,6 +1,6 @@
-### Olá! Meu nome é Pedro. Seja bem-vindo(a) ao meu repositório! 🤝🏻
+### Hey there! I'm Pedro ✌🏼
 
-## Tecnologias que utilizo:
+## Technologies I'm using:
 
 <div style="display: block"><br>
     <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
