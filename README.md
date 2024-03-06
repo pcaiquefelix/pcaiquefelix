@@ -1,4 +1,4 @@
-### Hey there! I'm Pedro ✌🏼
+### Hey there! I'm Pedro Caique ✌🏼
 
 ## Technologies I'm using:
 
