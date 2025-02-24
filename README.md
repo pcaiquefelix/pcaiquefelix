@@ -22,7 +22,7 @@
   <img
     align="left"
     alt="GitHub Stats"
-    width="400"
+    width="430"
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=pcaiquefelix&theme=tokyonight&hide_border=false&include_all_commits=true"
     alt="Github Stats"
@@ -35,4 +35,5 @@
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaiquefelix&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
+
 </p>
