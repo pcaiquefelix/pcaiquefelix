@@ -15,3 +15,22 @@
     <img alt="typeorm" src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white">
     <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
+
+## 📊 Stats
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pcaiquefelix&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaiquefelix&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
