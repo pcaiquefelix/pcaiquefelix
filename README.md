@@ -22,7 +22,7 @@
   <img
     align="left"
     alt="GitHub Stats"
-    width="430"
+    width="344"
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=pcaiquefelix&theme=tokyonight&hide_border=false&include_all_commits=true"
     alt="Github Stats"
@@ -31,9 +31,8 @@
   <img 
     align="left" 
     alt="GitHub Technologies"
-    width="400" 
+    width="320" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaiquefelix&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
