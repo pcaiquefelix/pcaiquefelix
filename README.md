@@ -24,7 +24,7 @@
     alt="GitHub Stats"
     width="344"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=pcaiquefelix&theme=tokyonight&hide_border=false&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=pcaiquefelix&theme=dark&hide_border=false&include_all_commits=true"
     alt="Github Stats"
   />
 
@@ -33,6 +33,6 @@
     alt="GitHub Technologies"
     width="320" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaiquefelix&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaiquefelix&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
